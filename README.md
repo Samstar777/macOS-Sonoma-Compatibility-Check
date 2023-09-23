@@ -15,7 +15,7 @@ This repository contains an XML file named "Sonoma-Compatibility-Checker.xml" de
 
 To use this Extension Attribute in Jamf Pro, follow these steps:
 
-- Simply check this [Youtube](http://jsfiddle.net/balupton/KBGw3/) Video
+- Simply check this Youtube Video .. In Progress
 
 - Once you have uploaded the Extension Attribute in Jamf Pro, the compatibility information for macOS Sonoma will be collected and available for reporting and management within Jamf Pro.
 
